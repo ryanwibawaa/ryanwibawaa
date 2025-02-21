@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ryanwibawaa
-- 👀 I’m interested in Front-End Web Developer & Back-End Web Developer
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on side projects as well as full-time work
 - 📫 How to reach me : email: ryanwibawa000@gmail.com 
